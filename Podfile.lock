@@ -1,0 +1,50 @@
+PODS:
+  - GoogleMaps (7.4.0):
+    - GoogleMaps/Maps (= 7.4.0)
+  - GoogleMaps/Base (7.4.0)
+  - GoogleMaps/Maps (7.4.0):
+    - GoogleMaps/Base
+  - GooglePlaces (7.4.0)
+  - IQKeyboardManagerSwift (7.0.2)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - OTPFieldView (1.0.1)
+  - SkeletonView (1.30.4)
+  - SnapKit (5.7.1)
+  - SwiftKeychainWrapper (4.0.1)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - OTPFieldView
+  - SkeletonView
+  - SnapKit
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - OTPFieldView
+    - SkeletonView
+    - SnapKit
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  GoogleMaps: 032f676450ba0779bd8ce16840690915f84e57ac
+  GooglePlaces: 544e908d94860bf6f8fc1865b80d2c7eb6b5f937
+  IQKeyboardManagerSwift: d338c11a896e9f29603443700c4567e32f830c22
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  OTPFieldView: 700a752fe62c41d1c4914c78aa500fb30d97c255
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+
+PODFILE CHECKSUM: c6a64e2f7b2a2e73307b7c228a86d82a80e22a60
+
+COCOAPODS: 1.15.2

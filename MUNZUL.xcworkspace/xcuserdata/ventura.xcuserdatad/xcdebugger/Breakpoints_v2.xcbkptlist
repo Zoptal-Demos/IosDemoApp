@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8847CBB2-40DE-4DFC-A7B8-E58F682224A5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2AE6673-58AF-4483-B94C-692E2C5AB123"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/CustomTextfield/CommonClass/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "requestLocationAtOnce()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2AE6673-58AF-4483-B94C-692E2C5AB123 - b028932cdf9d2cfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.LocationManager.requestLocationAtOnce() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/CustomTextfield/CommonClass/LocationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "438">
+               </Location>
+               <Location
+                  uuid = "A2AE6673-58AF-4483-B94C-692E2C5AB123 - b028932cdf9d2cd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.LocationManager.requestLocationAtOnce() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/CustomTextfield/CommonClass/LocationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "442">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04B8733D-9FFF-4B1A-987C-8570B2900C25"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/CustomTextfield/CommonClass/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F94ABBBA-A6E2-4A9F-8843-1F42A1EE5B50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/NavigationCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "RecoverVC()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F94ABBBA-A6E2-4A9F-8843-1F42A1EE5B50 - 17a16d009994e875"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.AppCoordinator.RecoverVC() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/NavigationCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "F94ABBBA-A6E2-4A9F-8843-1F42A1EE5B50 - 17a16d009994e875"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.AppCoordinator.RecoverVC() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/NavigationCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7401CCB-F7AA-4661-9B8D-2B23DBA2B671"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/Navigation/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "route(isFirstTimeUser:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7401CCB-F7AA-4661-9B8D-2B23DBA2B671 - 22eefa8aa6304680"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.AppCoordinator.init(window: __C.UIWindow) -&gt; MUNZUL.AppCoordinator"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/Navigation/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "F7401CCB-F7AA-4661-9B8D-2B23DBA2B671 - 2ac38aa5764a5ba9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.AppCoordinator.route(isFirstTimeUser: Swift.Bool) -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/Navigation/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "701CA1F5-320F-44BC-8D90-E5F44EE43220"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/Navigation/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "route(isFirstTimeUser:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "701CA1F5-320F-44BC-8D90-E5F44EE43220 - 2ac38aa5764a5ac0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.AppCoordinator.route(isFirstTimeUser: Swift.Bool) -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/Navigation/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "701CA1F5-320F-44BC-8D90-E5F44EE43220 - 2ac38aa5764a5ac0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.AppCoordinator.route(isFirstTimeUser: Swift.Bool) -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/Navigation/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "291">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C07E076-2CDF-4E8E-8BEC-8EC80B72CA65"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/Navigation/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "route(isFirstTimeUser:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE372968-2302-4744-BD28-D1121BF47802"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/RecoverPasswordVC/RecoverVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "submitButtonAction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE372968-2302-4744-BD28-D1121BF47802 - 251f2b67c4311658"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.RecoverVC.submitButtonAction() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/RecoverPasswordVC/RecoverVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "DE372968-2302-4744-BD28-D1121BF47802 - 251f2b67c4311679"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.RecoverVC.submitButtonAction() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/RecoverPasswordVC/RecoverVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "205">
+               </Location>
+               <Location
+                  uuid = "DE372968-2302-4744-BD28-D1121BF47802 - 251f2b67c43113c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.RecoverVC.submitButtonAction() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/RecoverPasswordVC/RecoverVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "311">
+               </Location>
+               <Location
+                  uuid = "DE372968-2302-4744-BD28-D1121BF47802 - 251f2b67c431138b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.RecoverVC.submitButtonAction() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/RecoverPasswordVC/RecoverVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "311">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A9ECFBC-B172-4F0D-8662-276A3BE51982"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/VerifyOtpVc/VerifyOtpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "submitButtonAction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A9ECFBC-B172-4F0D-8662-276A3BE51982 - adbcaf25055ac2a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.VerifyOtpVC.submitButtonAction() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/VerifyOtpVc/VerifyOtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "1A9ECFBC-B172-4F0D-8662-276A3BE51982 - adbcaf25055ac2e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.VerifyOtpVC.submitButtonAction() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/VerifyOtpVc/VerifyOtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "1A9ECFBC-B172-4F0D-8662-276A3BE51982 - adbcaf25055ac285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.VerifyOtpVC.submitButtonAction() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/VerifyOtpVc/VerifyOtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "1A9ECFBC-B172-4F0D-8662-276A3BE51982 - adbcaf25055ac285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.VerifyOtpVC.submitButtonAction() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/VerifyOtpVc/VerifyOtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9267B0F-B4B3-48EF-9899-93D54BFC08AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/SignIN/SignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "changeLbl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B9A99E8-0CC6-4421-AF87-62F103A25068"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/SignIN/SignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "animateUnhideViews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2B9A99E8-0CC6-4421-AF87-62F103A25068 - 3605190b25d5f912"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.SignInVC.animateUnhideViews() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/SignIN/SignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "2B9A99E8-0CC6-4421-AF87-62F103A25068 - 3605190b25d5f912"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.SignInVC.animateUnhideViews() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/SignIN/SignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "287">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58223FE6-A8FD-4FAE-8CF0-DC52772A4DDF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/SignIN/SignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "ActionSignUP(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A12772AD-1566-48E1-B680-FDE2EA7942CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/SignIN/SignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "ActionSignUP(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D5A133C-9BF6-43C6-89D1-561FE60DB9A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/SignIN/SignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "animateHideViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "104253D7-0318-4F51-B886-76A51C814B1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/SignIN/SignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "390"
+            endingLineNumber = "390"
+            landmarkName = "handleRegistrationResponse(data:response:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D9A0298-06A7-4F6F-B2EE-702045A9A527"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/VerifyOtpVc/VerifyOtpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "VerifyOtpAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D9A0298-06A7-4F6F-B2EE-702045A9A527 - 9a61b9da92036be5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.VerifyOtpVC.VerifyOtpAPI() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/VerifyOtpVc/VerifyOtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1670">
+               </Location>
+               <Location
+                  uuid = "5D9A0298-06A7-4F6F-B2EE-702045A9A527 - f9098bd476ee7200"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #3 (MUNZUL.VerifyOtpVC) -&gt; (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MUNZUL.VerifyOtpVC.VerifyOtpAPI() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/VerifyOtpVc/VerifyOtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "66">
+               </Location>
+               <Location
+                  uuid = "5D9A0298-06A7-4F6F-B2EE-702045A9A527 - ddc2a974b10bc6a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #4 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in implicit closure #3 (MUNZUL.VerifyOtpVC) -&gt; (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MUNZUL.VerifyOtpVC.VerifyOtpAPI() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/VerifyOtpVc/VerifyOtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F43FE37-28A7-4DBF-AB44-6A30952F7348"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C8E5CEF-6FA3-4411-8487-BD7654D22B77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F279D84-6987-40BB-86D2-0CE73AA217BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Navigation/NavigationCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "NavigateToTabBar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91FE1F69-212F-434B-BAEC-75786FCE2CB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Navigation/NavigationCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1B25CF3-FDD8-4AE9-89A9-D8CD92226AC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "144BEF2B-DAA5-4386-9806-6F67D9D777F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18F47928-68B4-467E-B8C7-37D3EBD72999"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "sharedDelegate"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "18F47928-68B4-467E-B8C7-37D3EBD72999 - 3b4fb51b1158cfb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MUNZUL.SceneDelegate.sharedDelegate.getter : MUNZUL.SceneDelegate"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "18F47928-68B4-467E-B8C7-37D3EBD72999 - 3b4fb51b1158c1a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MUNZUL.SceneDelegate.sharedDelegate.getter : MUNZUL.SceneDelegate"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "18F47928-68B4-467E-B8C7-37D3EBD72999 - 3b4fb51b1158c1e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MUNZUL.SceneDelegate.sharedDelegate.getter : MUNZUL.SceneDelegate"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D389FE1-2F37-44F3-A39F-A043737A400A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D389FE1-2F37-44F3-A39F-A043737A400A - 1171e5e9681fe6cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "6D389FE1-2F37-44F3-A39F-A043737A400A - 1171e5e9681fe6cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F022555-7331-43EE-9212-5340969F7D27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F022555-7331-43EE-9212-5340969F7D27 - 1171e5e9681fe7a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "491">
+               </Location>
+               <Location
+                  uuid = "2F022555-7331-43EE-9212-5340969F7D27 - 1171e5e9681fe7c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Delegate/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "491">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "342066D5-6EAE-4A1A-98B6-0F18B1C8E6E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Delegate/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C265874-26D4-432B-994E-54C88B3AD607"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/CommonViews/CustomTextfield/TextfieldUI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "visibilityButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C265874-26D4-432B-994E-54C88B3AD607 - aecc4b4ed6108644"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.RoundedTextFieldView.visibilityButtonTapped() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/CommonViews/CustomTextfield/TextfieldUI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "125">
+               </Location>
+               <Location
+                  uuid = "0C265874-26D4-432B-994E-54C88B3AD607 - aecc4b4ed61087e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MUNZUL.RoundedTextFieldView.visibilityButtonTapped() -&gt; ()"
+                  moduleName = "MUNZUL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ventura/Desktop/My%20ProJects/munzul_real_estate_ios/MUNZUL/Views/CommonViews/CustomTextfield/TextfieldUI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "157">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF995FE2-042A-441D-9DD3-8B132F89220C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/SignIN/SignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "380"
+            endingLineNumber = "380"
+            landmarkName = "handleRegistrationResponse(data:response:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C10356C5-CB79-4D4E-A579-EDD7931A5044"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MUNZUL/Views/ProfileTap/ProfileTapVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

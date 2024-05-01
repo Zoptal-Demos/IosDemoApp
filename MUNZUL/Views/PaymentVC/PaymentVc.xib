@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Regular.ttf">
+            <string>Roboto-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PaymentVc" customModule="MUNZUL" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Tff-54-E0c">
+                    <rect key="frame" x="0.0" y="59" width="375" height="50"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="a8C-tr-aYh">
+                            <rect key="frame" x="0.0" y="0.0" width="24" height="50"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="24" id="y31-SK-32D"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TyA-T7-uRe">
+                            <rect key="frame" x="24" y="0.0" width="30" height="50"/>
+                            <subviews>
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Back_btn" translatesAutoresizingMaskIntoConstraints="NO" id="llZ-Fy-0rh">
+                                    <rect key="frame" x="0.0" y="0.0" width="30" height="50"/>
+                                </imageView>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1G5-z1-R1C">
+                                    <rect key="frame" x="0.0" y="0.0" width="30" height="50"/>
+                                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                    <connections>
+                                        <action selector="ActionBckBtn:" destination="-1" eventType="touchUpInside" id="IAd-oY-0lv"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="trailing" secondItem="llZ-Fy-0rh" secondAttribute="trailing" id="6hK-bj-yBf"/>
+                                <constraint firstItem="llZ-Fy-0rh" firstAttribute="top" secondItem="TyA-T7-uRe" secondAttribute="top" id="7Ta-zN-P3C"/>
+                                <constraint firstAttribute="trailing" secondItem="1G5-z1-R1C" secondAttribute="trailing" id="FlZ-R3-PFQ"/>
+                                <constraint firstItem="1G5-z1-R1C" firstAttribute="leading" secondItem="TyA-T7-uRe" secondAttribute="leading" id="UW0-gr-eb4"/>
+                                <constraint firstItem="llZ-Fy-0rh" firstAttribute="leading" secondItem="TyA-T7-uRe" secondAttribute="leading" id="bxk-GM-89b"/>
+                                <constraint firstAttribute="bottom" secondItem="1G5-z1-R1C" secondAttribute="bottom" id="hYY-8S-XKb"/>
+                                <constraint firstItem="1G5-z1-R1C" firstAttribute="top" secondItem="TyA-T7-uRe" secondAttribute="top" id="kLW-ZT-w2t"/>
+                                <constraint firstAttribute="bottom" secondItem="llZ-Fy-0rh" secondAttribute="bottom" id="tvs-7p-u55"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bny-V4-1rY">
+                            <rect key="frame" x="54" y="0.0" width="321" height="50"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Payment Methods" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZOM-x2-cij">
+                                    <rect key="frame" x="12" y="0.0" width="309" height="50"/>
+                                    <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="18"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="trailing" secondItem="ZOM-x2-cij" secondAttribute="trailing" id="2qp-4X-MDq"/>
+                                <constraint firstItem="ZOM-x2-cij" firstAttribute="top" secondItem="bny-V4-1rY" secondAttribute="top" id="97r-2s-xqx"/>
+                                <constraint firstItem="ZOM-x2-cij" firstAttribute="leading" secondItem="bny-V4-1rY" secondAttribute="leading" constant="12" id="OhN-gS-AkG"/>
+                                <constraint firstAttribute="bottom" secondItem="ZOM-x2-cij" secondAttribute="bottom" id="vgT-d6-biD"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Tff-54-E0c" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="2MP-Un-FtZ"/>
+                <constraint firstAttribute="trailing" secondItem="Tff-54-E0c" secondAttribute="trailing" id="LMb-14-wr0"/>
+                <constraint firstItem="Tff-54-E0c" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="owk-vO-BcY"/>
+            </constraints>
+            <point key="canvasLocation" x="77" y="-11"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Back_btn" width="30" height="30"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
